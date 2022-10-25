@@ -84,6 +84,7 @@
 
         <script>
 	    var botmanWidget = {
+            frameEndpoint:'/widget',
             title:'Bot Edukasi',
             headerTextColor: '#fff',
             mainColor:'#1746A2',
