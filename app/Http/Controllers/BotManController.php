@@ -59,7 +59,10 @@ class BotManController extends Controller
                                 didalam maupun diluar wilayah Negara Republik Indonesia, termasuk perorangan.
                                 <br>
                                 <br>
-                                Untuk lebih lengkapnya, klik tautan berikut https://www.indonesiaeximbank.go.id/id/products-services
+                                Untuk lebih lengkapnya, klik tautan berikut 
+                                <a href='https://www.indonesiaeximbank.go.id/id/products-services' target='_blank' rel='noopener noreferrer'>
+                                https://www.indonesiaeximbank.go.id/id/products-services
+                                </a>
                                 ");
                 $botman->reply(Question::create("Menu : ")
                     ->addButtons([
@@ -72,7 +75,11 @@ class BotManController extends Controller
                                 lainnya, jika mereka gagal membayar kembali fasilitas pembiayaan.
                                 <br>
                                 <br>
-                                Untuk lebih lengkapnya, klik tautan berikut https://www.indonesiaeximbank.go.id/id/products-services
+                                Untuk lebih lengkapnya, klik tautan berikut 
+                                <a href='https://www.indonesiaeximbank.go.id/id/products-services' target='_blank' rel='noopener noreferrer'>
+                                https://www.indonesiaeximbank.go.id/id/products-services
+                                </a>
+                                
                                 ");
                 $botman->reply(Question::create("Menu : ")
                     ->addButtons([
@@ -85,7 +92,10 @@ class BotManController extends Controller
                                 dilakukan oleh perusahaan Indonesia di luar negeri, dan risiko politik di negara tujuan ekspor.
                                 <br>
                                 <br>
-                                Untuk lebih lengkapnya, klik tautan berikut https://www.indonesiaeximbank.go.id/id/products-services
+                                Untuk lebih lengkapnya, klik tautan berikut 
+                                <a href='https://www.indonesiaeximbank.go.id/id/products-services' target='_blank' rel='noopener noreferrer'>
+                                https://www.indonesiaeximbank.go.id/id/products-services
+                                </a>
                                 ");
                 $botman->reply(Question::create("Menu : ")
                     ->addButtons([
@@ -112,7 +122,10 @@ class BotManController extends Controller
                                                 dan persiapan operasional.
                                                 <br>
                                                 <br>
-                                                Akses modul-modul pembelajaran lainnya terkait ekspor di www.digitalekspor.com 
+                                                Akses modul-modul pembelajaran lainnya terkait ekspor di 
+                                                <a href='https://www.digitalekspor.com' target='_blank' rel='noopener noreferrer'>
+                                                www.digitalekspor.com
+                                                </a> 
                                                 serta dapatkan informasi program Jasa Konsultasi
                                                 ");
                 $botman->reply(Question::create("Menu : ")
@@ -131,7 +144,10 @@ class BotManController extends Controller
                                                 kepada calon pembeli.
                                                 <br>
                                                 <br>
-                                                Akses modul-modul pembelajaran lainnya terkait ekspor di www.digitalekspor.com 
+                                                Akses modul-modul pembelajaran lainnya terkait ekspor di 
+                                                <a href='https://www.digitalekspor.com' target='_blank' rel='noopener noreferrer'>
+                                                www.digitalekspor.com
+                                                </a> 
                                                 serta dapatkan informasi program Jasa Konsultasi
 
                 ");
@@ -154,7 +170,10 @@ class BotManController extends Controller
                  surat pernyataan mutu, dan wessel export untuk eksportir.
                  <br>
                  <br>
-                 Akses modul-modul pembelajaran lainnya terkait ekspor di www.digitalekspor.com 
+                 Akses modul-modul pembelajaran lainnya terkait ekspor di 
+                 <a href='https://www.digitalekspor.com' target='_blank' rel='noopener noreferrer'>
+                 www.digitalekspor.com
+                 </a> 
                  serta dapatkan informasi program Jasa Konsultasi");
                 $botman->reply(Question::create("Pertanyaan : ")
                     ->addButtons([
@@ -171,7 +190,10 @@ class BotManController extends Controller
                 mulai dari ongkos produksi hingga pemasaran, sehingga bisa menetapkan harga jual produk
                 <br>
                 <br>
-                Akses modul-modul pembelajaran lainnya terkait ekspor di www.digitalekspor.com 
+                Akses modul-modul pembelajaran lainnya terkait ekspor di 
+                <a href='https://www.digitalekspor.com' target='_blank' rel='noopener noreferrer'>
+                www.digitalekspor.com
+                </a> 
                 serta dapatkan informasi program Jasa Konsultasi
                 ");
                 $botman->reply(Question::create("Pertanyaan : ")
@@ -197,7 +219,10 @@ class BotManController extends Controller
                 cikal bakal eksportir. Dilakukan secara hybrid (offline dan online di beberapa kota) 
                 <br>
                 <br>
-                Klik tautan berikut untuk mendaftar CPNE Bit.ly/daftarcpne
+                Klik tautan berikut untuk mendaftar CPNE 
+                <a href='https://Bit.ly/daftarcpne' target='_blank' rel='noopener noreferrer'>
+                Bit.ly/daftarcpne
+                </a> 
                 ");
                 $botman->reply(Question::create("Hubungi Customer Service untuk informasi lebih lanjut ")
                     ->addButtons([
@@ -222,7 +247,10 @@ class BotManController extends Controller
                 informasi terkait lainnya
                 <br>
                 <br>
-                Klik tautan berikut untuk mengakses Digital Ekspor www.digitalekspor.com
+                Klik tautan berikut untuk mengakses Digital Ekspor 
+                <a href='https://www.digitalekspor.com' target='_blank' rel='noopener noreferrer'>
+                www.digitalekspor.com
+                </a>
                 ");
                 $botman->reply(Question::create("Hubungi Customer Service untuk informasi lebih lanjut ")
                     ->addButtons([
