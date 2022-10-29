@@ -13,7 +13,7 @@
         <script>
 	    var botmanWidget = {
             frameEndpoint:'/widget',
-            title:'Bot Edukasi Export',
+            title:'Halo #Sahabatekspor',
             headerTextColor: '#fff',
             mainColor:'#1746A2',
 	        aboutText: 'ssdsd',
