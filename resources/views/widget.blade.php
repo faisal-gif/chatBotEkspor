@@ -9,7 +9,8 @@
 
 <body>
     <p class="ChatLog__message" v-html="message.text"></p>
-    <script id="botmanWidget" src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/chat.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/chat.js'></script>
+    
 </body>
 
 </html>
